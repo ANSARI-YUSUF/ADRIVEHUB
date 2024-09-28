@@ -1,0 +1,5 @@
+
+google(soft) : hello facebook
+google(soft) : hello youtube
+youtube(soft) : hello google
+youtube(soft) : hello facefook
